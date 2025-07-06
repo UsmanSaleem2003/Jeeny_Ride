@@ -37,7 +37,7 @@ const Login = () => {
                             value={formData.email}
                             onChange={handleChange}
                             required
-                            placeholder="e.g. bilal@example.com"
+                            placeholder="e.g. usman@example.com"
                         />
                     </div>
                     <div className="form-group">
